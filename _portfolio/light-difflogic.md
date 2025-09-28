@@ -5,6 +5,8 @@ collection: portfolio
 ---
 
 ![Illustration of reparametrization](/images/light-difflogic.png)
+
+# Abstract
 Differentiable logic gate networks (DLGNs) exhibit extraordinary efficiency at inference while sustaining competitive accuracy.
 But vanishing gradients, discretization errors, and high training cost impede scaling these networks.
 With our reparametrization, we tackle these shortcoming and make DLGNs more scalable in depth and complexity. 
