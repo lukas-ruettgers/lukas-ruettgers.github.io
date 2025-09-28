@@ -1,6 +1,6 @@
 ---
 title: "Light differentiable logic gate networks"
-excerpt: "Reparametrizing differentiable logic gate networks to make them more lightweight and scalable.<br/><img src='/light-difflogic.png'>"
+excerpt: "Reparametrizing differentiable logic gate networks to make them more lightweight and scalable.<br/><img src='/images/light-difflogic.png'>"
 collection: portfolio
 ---
 
