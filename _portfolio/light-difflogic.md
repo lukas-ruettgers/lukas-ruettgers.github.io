@@ -3,6 +3,7 @@ title: "Light differentiable logic gate networks"
 excerpt: "Reparametrizing differentiable logic gate networks to make them more lightweight and scalable.<br/><img src='/images/light-difflogic.png'>"
 collection: portfolio
 ---
+![Illustration of reparametrization](/images/light-difflogic.png)
 
 Differentiable logic gate networks (DLGNs) exhibit extraordinary efficiency at inference while sustaining competitive accuracy.
 But vanishing gradients, discretization errors, and high training cost impede scaling these networks.
