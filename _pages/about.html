@@ -1,0 +1,19 @@
+---
+permalink: /
+title: "Overview"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.md
+---
+
+{% include base_path %}
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<!-- No publications yet -->
+<!-- {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %} -->
