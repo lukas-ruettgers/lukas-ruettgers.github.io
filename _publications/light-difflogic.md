@@ -1,7 +1,7 @@
 ---
 title: "Light differentiable logic gate networks"
 collection: publications
-category: conferences
+category: underreview
 permalink: /publication/light-difflogic
 excerpt: 'Reparametrizing DLGNs.'
 date: 2025-09-25
