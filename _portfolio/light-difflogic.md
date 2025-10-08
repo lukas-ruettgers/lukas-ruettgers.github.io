@@ -12,22 +12,18 @@ But vanishing gradients, discretization errors, and high training cost impede sc
 With our reparametrization, we tackle these shortcoming and make DLGNs more scalable in depth and complexity. 
 The implementation of our reparametrization is available at [GitHub](https://github.com/lukas-ruettgers/difflogic-iwp).
 
-# Presentation (Manim)
-Use arrow keys to navigate through slides and press `F` for full screen.<br/>
-You can also directly open the presentation [here](/files/light-difflogic-pres.html).<br/>
-<div style="position:relative;padding-bottom:56.25%;">
-    <!-- 56.25 comes from aspect ratio of 16:9, change this accordingly -->
-    <iframe
-        style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
-        frameborder="0"
-        width="100%"
-        height="100%"
-        allowfullscreen
-        allow="autoplay"
-        src="/files/light-difflogic-pres.html">
-    </iframe>
-</div><br/>
-
-# Paper
-<embed src="/files/light-difflogic.pdf" width="500" height="375" 
- type="application/pdf">
+# Presentation Video
+To navigate through the slides yourself, open the presentation [here](/files/light-difflogic-pres.html).<br/>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <video
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    controls
+    autoplay
+    muted
+    loop
+  >
+    <source src="/files/light-difflogic-video.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+</div>
+<br/>
