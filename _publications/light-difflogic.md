@@ -6,7 +6,7 @@ permalink: /publication/light-difflogic
 excerpt: 'Reparametrizing DLGNs.'
 date: 2025-09-25
 venue: 'Under review'
-slidesurl: 'http://lukas-ruettgers.github.io/files/light-difflogic.pdf'
+slidesurl: 'http://lukas-ruettgers.github.io/files/light-difflogic-pres.html'
 paperurl: 'http://lukas-ruettgers.github.io/files/light-difflogic.pdf'
 bibtexurl: 'http://lukas-ruettgers.github.io/files/light-difflogic.bib'
 citation: 'Lukas Rüttgers, Till Aczel, Andreas Plesner, Roger Wattenhofer. (2025). &quot;Light Differentiable Logic Gate Networks.&quot; <i>Under review</i>. 1(1).'
