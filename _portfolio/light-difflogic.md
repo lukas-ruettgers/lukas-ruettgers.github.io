@@ -12,7 +12,7 @@ But vanishing gradients, discretization errors, and high training cost impede sc
 With our reparametrization, we tackle these shortcoming and make DLGNs more scalable in depth and complexity. 
 The implementation of our reparametrization is available at [GitHub](https://github.com/lukas-ruettgers/difflogic-iwp).
 
-# Presentation Video
+# Presentation 
 To navigate through the slides yourself, open the presentation [here](/files/light-difflogic-pres.html).<br/>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
   <video
