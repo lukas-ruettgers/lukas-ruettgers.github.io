@@ -12,3 +12,8 @@ linkedin: # can be any name here other than the ones already defined in the jeky
   logo: /assets/img/linkedin.jpg # can be png, svg, jpg
   title: LinkedIn 
   url: https://www.linkedin.com/in/lukas-ruettgers/
+github: # can be any name here other than the ones already defined in the jekyll-socials plugin
+  logo: /assets/img/github.svg # can be png, svg, jpg
+  title: GitHub 
+  url: https://github.com/lukas-ruettgers/
+  
