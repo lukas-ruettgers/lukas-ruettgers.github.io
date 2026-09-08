@@ -16,4 +16,3 @@ github: # can be any name here other than the ones already defined in the jekyll
   logo: /assets/img/github.png # can be png, svg, jpg
   title: GitHub 
   url: https://github.com/lukas-ruettgers/
-  
